@@ -2,7 +2,7 @@
 
 This is a complete react  built of [IIC](https://www.iic-vssut.org) <br>
 
-Developer in action [Chandrasekhar](https://github.com/chandrasekhar2039) , [Aryan](https://github.com/patelaryan7751)  <br>
+Developer in action [Chandrasekhar](https://github.com/chandrasekhar2039), [Aryan](https://github.com/patelaryan7751)  <br>
 
 Any query contact  IIC-VSSUT Developer Team.
 
